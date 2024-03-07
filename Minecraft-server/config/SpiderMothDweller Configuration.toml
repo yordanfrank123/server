@@ -1,0 +1,15 @@
+
+[Spawning]
+	#This controls whether the main dweller will require thunderstorm weather to spawn
+	"Spawn Rate" = true
+	#Do you want the larvae to spawn naturally without needing the dweller to spawn them?
+	"Larvae Spawning" = true
+	#Do you want the dweller to spawn naturally?
+	"Dweller Spawning" = true
+	"Dweller Inclusion" = true
+	"Dweller Rarity" = 1.0
+
+[Difficulty]
+	#By default, the dweller boss has 350 health. Choose true to decrease this to 60 health,
+	"Dweller Health" = false
+

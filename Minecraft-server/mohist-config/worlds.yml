@@ -1,0 +1,25 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: -3212402983034178247
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    mohist: false
+  DIM1:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  dark_world:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: dwm
+  limbo:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: creation_and_adventure
+  the_eclipse:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: the_awakening_of_the_elder_souls
